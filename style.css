@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+ color: rgb(0, 38, 207);
+ text-align: center;
+}
+div{
+ h1{color: brown;}
+}
+p{
+ color: rgb(29, 136, 0);   
+ text-align: center;
+}
+
+button{
+ background-color: blue;   
+ color: azure;
+ display: block;
+ margin: auto;
+ 
+ 
+}
